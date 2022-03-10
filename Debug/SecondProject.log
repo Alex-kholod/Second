@@ -1,0 +1,4 @@
+﻿  SecondProject.cpp
+C:\Users\Alex\source\repos\SecondProject\SecondProject\SecondProject.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Alex\source\repos\SecondProject\SecondProject\SecondProject.cpp(13,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  SecondProject.vcxproj -> C:\Users\Alex\source\repos\SecondProject\Debug\SecondProject.exe
